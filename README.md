@@ -1,8 +1,11 @@
-# Getting Started with Create React App
+# Task Management System
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
+
+Run npm install first to install the required library to run this project
+### `npm install`
 
 In the project directory, you can run:
 
